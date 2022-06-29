@@ -1,2 +1,2 @@
-# Movies app. The Movie Database API. Часть 2
+# Movies app. The Movie Database API. Final part.
 
